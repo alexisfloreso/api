@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "titulo" : "HTML",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/26557907-0555-427e-a40c-6ff207f98d72.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":2,
+        "titulo" : "Svelte",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/6af6a692-a841-453a-80ed-e9ecbbcf7f7f.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":3,
+        "titulo" : "Amazon Web Services",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/608331fa-c0c6-4f7c-9ad7-470903923179.jpg",
+        "profesor" : "Martín Romo",
+        "precio" : "500.00"
+    },
+    {
+        "id":4,
+        "titulo" : "Scratch",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/a1a1984b-d7c7-4fdd-b176-6647819d3d2e.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":5,
+        "titulo" : "MySQL",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/3aa59acc-3472-4875-b9c6-216825be755b.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":6,
+        "titulo" : "Go",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/3ec614b5-a9b7-475c-bf8f-8ba643a129eb.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":7,
+        "titulo" : "GraphQl",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/7fd29763-c6b4-4a98-951b-65a5b26b8aaa.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":8,
+        "titulo" : "Spring",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/6cbc514c-1e04-4bf4-8beb-fa595f363d9d.png",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    },
+    {
+        "id":9,
+        "titulo" : "Figma",
+        "imagen" : "https://edteam-media.s3.amazonaws.com/courses/medium/95e9e312-8ac1-495e-a4e8-202363ef372a.jpg",
+        "profesor" : "Carlos Marín",
+        "precio" : "350.00"
+    }
+]
